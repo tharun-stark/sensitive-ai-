@@ -1,0 +1,7 @@
+{
+  "name": "Local ML Trainer",
+  "description": "A browser-based machine learning trainer that uses TensorFlow.js to train models on your datasets locally, without any API keys or internet connection required for inference.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
